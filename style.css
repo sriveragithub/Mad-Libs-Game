@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+}
+
+input {
+    display: block;
+}
+
+#game1 {
+    visibility: hidden;
+}
